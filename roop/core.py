@@ -5,6 +5,7 @@ import sys
 import warnings
 import argparse
 import onnxruntime
+import tensorflow as tf
 import shutil
 import roop.globals
 import roop.metadata
